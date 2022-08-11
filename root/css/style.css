@@ -1,0 +1,27 @@
+.jumbotron{
+    font-family: 'Figtree', sans-serif;
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.flexContainer{
+    display: flex;
+}
+
+.gridContainer{
+    display: flex;
+}
+
+@media only screen and (max-width: 600) {
+
+.flexContainer{
+    margin: 2px 5%;
+    display: grid;
+    grid-template-rows: 200px 200px 200px;
+}
+
+}
