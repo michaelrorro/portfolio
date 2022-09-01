@@ -1,0 +1,26 @@
+
+
+
+.user-research {
+    width: 1091px;
+    height: 375px;
+    background: url("../images/user-research.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.problem-solving {
+    width: 1091px;
+    height: 375px;
+    background: url("../images/problem-solving.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.rapid-prototyping {
+    width: 1091px;
+    height: 375px;
+    background: url("../images/rapid-prototyping.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
